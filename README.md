@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Sumesh Majhi (a.k.a MajhiRockzZ)
 
 <!--
 **MajhiRockzZ/majhirockzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
