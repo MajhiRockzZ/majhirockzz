@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ### Hi 👋, I'm Sumesh Majhi (a.k.a MajhiRockzZ ⚡)—a software engineer, open source creator, technical writer and gamer.
+
+I build lots of demos on this account and I'm always writing and documenting what I learn at [majhirockzz.me](https://www.majhirockzz.me/).
