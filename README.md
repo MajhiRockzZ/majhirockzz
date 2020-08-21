@@ -24,4 +24,4 @@ I build lots of demos on this account and I'm always writing and documenting wha
 - 💬 Ask me about free resources for developer and mobile/pc games
 - 📫 How to reach me: sumesh.majhi.5@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ... Everyday I create a life I love
+- ⚡ Fun fact: ... Everyday I create a life I love 💖
