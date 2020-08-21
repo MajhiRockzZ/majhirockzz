@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://raw.githubusercontent.com/MajhiRockzZ/majhirockzz/master/img.jpg">
+
 ### Hi 👋, I'm Sumesh Majhi (A.k.a MajhiRockzZ ⚡)
 
 #### A software engineer, open source creator, technical writer and gamer.
