@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi 👋, I'm Sumesh Majhi (a.k.a MajhiRockzZ ⚡)
+### Hi 👋, I'm Sumesh Majhi (A.k.a MajhiRockzZ ⚡)
 
 #### A software engineer, open source creator, technical writer and gamer.
 
