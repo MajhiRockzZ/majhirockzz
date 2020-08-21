@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-#### I'm Sumesh Majhi (a.k.a MajhiRockzZ ⚡)—a software engineer, open source creator, technical writer and gamer.
+### Hi 👋, I'm Sumesh Majhi (a.k.a MajhiRockzZ ⚡)—a software engineer, open source creator, technical writer and gamer.
