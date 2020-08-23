@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 #### A software engineer, open source creator, technical writer and gamer.
 
-I build lots of demos on this account and I'm always writing and documenting what I learn at [majhirockzz.me](https://www.majhirockzz.me/).
+I build lots of demos on this account and I'm always writing and documenting what I learn at [majhirockzz.xyz](https://www.majhirockzz.xyz/).
 
 - 🌱 I’m currently learning technical writing and frontend frameworks
 - 👯 I’m looking to collaborate on gatsby and react projects
