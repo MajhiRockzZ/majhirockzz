@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 I build lots of demos on this account and I'm always writing and documenting what I learn at [majhirockzz.xyz](https://www.majhirockzz.xyz/).
 
 - 🌱 I’m currently learning technical writing and frontend frameworks
-- 👯 I’m looking to collaborate on gatsby and react projects
+- 👯 I’m looking to collaborate on gatsby, react and django projects
 - 💬 Ask me about free resources for developer and mobile/pc games
 - 📫 How to reach me: sumesh.majhi.5@gmail.com
 - 😄 Pronouns: He/Him
